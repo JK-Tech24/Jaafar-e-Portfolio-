@@ -23,10 +23,10 @@
 - ![Discussion 1](images/screenshot1.png)
 *Summary of the first discussion.*
 
-![Discussion 2](images/screenshot2.png)
+- ![Discussion 2](images/screenshot2.png)
 *Summary of the second discussion.*
 
-![Discussion 3](images/screenshot3.png)
+- ![Discussion 3](images/screenshot3.png)
 *Summary of the third discussion.*
 
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
