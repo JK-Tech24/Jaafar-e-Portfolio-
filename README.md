@@ -18,3 +18,25 @@
 <hr>
 
 <!-- Continue adding sections as needed -->
+## Contents
+- **Collaborative Forum Summaries**: Summarized discussions covering learning outcomes 1 and 2.
+- **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
+- **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
+- **Professional Development**:
+  - Summary of learning outcomes
+  - Team meeting notes
+  - Peer and tutor feedback
+  - Professional Skills Matrix & Action Plan (PDP)
+  - Additional module artefacts linked to specific learning outcomes
+
+## Skills Developed
+- **Time Management** 
+- **Commercial Awareness**
+- **Critical Thinking & Analysis**
+- **Communication & Literacy**
+- **IT & Digital Skills**
+- **Numeracy**
+- **Research & Problem-Solving**
+- **Interpersonal & Ethical Awareness**
+- **Teamwork, Leadership & Global Citizenship**
+- **Critical Reflection**
