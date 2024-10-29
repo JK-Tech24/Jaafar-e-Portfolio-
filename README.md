@@ -1,7 +1,7 @@
 <h1>Joe's e-Portfolio</h1>
 
 <h2>About Me</h2>
-<p>I am Jaafar, a Lebanese-Canadian architect with a Master's degree in Project Management, currently pursuing a Master's degree in Artificial Intelligence. My work focuses on construction, engineering and infrastructure projects, with a particular focus on facility management and maintenance. I am committed to introducing AI solutions to create innovation, improve project productivity and increase environmental efficiency.</p>
+<p>I am Jaafar, an Architect with a Master's degree in Project Management, currently pursuing a Master's degree in Artificial Intelligence. My work focuses on construction, engineering and infrastructure projects, with a particular focus on facility management and maintenance. I am committed to introducing AI solutions to create innovation, improve project productivity and increase environmental efficiency.</p>
 
 <p><strong>Nationality:</strong> Lebanese and Canadian<br>
 <strong>Birth Date:</strong> January 16, 1985</p>
