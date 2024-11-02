@@ -20,7 +20,7 @@
 <!-- Continue adding sections as needed -->
 ## Contents
 - **Collaborative Forum Summaries**: Summarized discussions covering learning outcomes 1 and 2.
-- ![Discussion 1](Initial post.jpg)
+- ![Discussion 1]([Initial post.jpg](https://github.com/JK-Tech24/Jaafar-e-Portfolio-/blob/2530d43283c9f0074e6fb0ae23231eb7a4b22f5f/Initial%20post.jpg))
 *Summary of the first discussion.*
 
 - ![Discussion 2](images/screenshot2.png)
