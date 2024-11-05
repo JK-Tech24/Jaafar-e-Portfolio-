@@ -23,7 +23,7 @@
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
 - **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
 
-  - <summary>**Unit 2 Seminar (Title: EDA Tutorial)**</summary>
+  <summary>**Unit 2 Seminar (Title: EDA Tutorial)**</summary>
   &nbsp;&nbsp;<details>
     <summary>Identify missing values</summary>
     Here, you can describe the methods you used to identify missing values in your dataset, such as using functions like `is.na()` in R or `isnull()` in Python.
