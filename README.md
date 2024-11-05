@@ -26,7 +26,7 @@
   <summary><strong>Unit 2 Seminar (Title: EDA Tutorial)</strong></summary>
   &nbsp;&nbsp;<details>
     <summary>Identify missing values</summary>
-    Here, you can describe the methods you used to identify missing values in your dataset, such as using functions like `is.na()` in R or `isnull()` in Python.
+    In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
   </details>
   &nbsp;&nbsp;<details>
     <summary>Estimate Skewness and Kurtosis</summary>
