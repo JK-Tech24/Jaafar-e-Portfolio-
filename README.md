@@ -38,9 +38,9 @@
   - Peer and tutor feedback
   - Professional Skills Matrix & Action Plan (PDP)
   - Additional module artefacts linked to specific learning outcomes
- 
-- **Unit 2 Seminar (Title: EDA Tutorial)**:
-<details>
+  
+ - **Unit 2 Seminar (Title: EDA Tutorial)**:
+<111111111111111>
   <summary>Identify missing values</summary>
 
 <details>
