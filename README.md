@@ -37,6 +37,14 @@
   - Peer and tutor feedback
   - Professional Skills Matrix & Action Plan (PDP)
   - Additional module artefacts linked to specific learning outcomes
+ 
+- **Unit 2 Seminar (Title: EDA Tutorial)**:
+- Summary of learning outcomes
+  - Identify missing values.
+  - Estimate Skewness and Kurtosis.
+  - Correlation Heat Map.
+  - Scatter plot for different parameters
+  - Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.).
 
 ## Skills Developed
 - **Time Management** 
