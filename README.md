@@ -25,7 +25,7 @@
 
 - **Unit 2 Seminar (Title: EDA Tutorial)**
 
-<details>
+--<details>
   <summary>Identify missing values</summary>
   Here, you can describe the methods you used to identify missing values in your dataset, such as using functions like `is.na()` in R or `isnull()` in Python.
 </details>
