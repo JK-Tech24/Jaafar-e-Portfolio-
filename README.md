@@ -27,27 +27,27 @@
 
 <details>
   <summary>Identify missing values</summary>
-  Here, you can describe the methods you used to identify missing values in your dataset, such as using functions like `is.na()` in R or `isnull()` in Python.
+  &nbsp;&nbsp;Here, you can describe the methods you used to identify missing values in your dataset, such as using functions like `is.na()` in R or `isnull()` in Python.
 </details>
 
 <details>
   <summary>Estimate Skewness and Kurtosis</summary>
-  Explain how you estimated skewness and kurtosis for your variables, and what these metrics reveal about the distribution of your data.
+  &nbsp;&nbsp;Explain how you estimated skewness and kurtosis for your variables, and what these metrics reveal about the distribution of your data.
 </details>
 
 <details>
   <summary>Correlation Heat Map</summary>
-  Provide details on how you created a correlation heat map, what libraries you used (like Seaborn or ggplot), and your observations regarding the correlations between different variables.
+  &nbsp;&nbsp;Provide details on how you created a correlation heat map, what libraries you used (like Seaborn or ggplot), and your observations regarding the correlations between different variables.
 </details>
 
 <details>
   <summary>Scatter Plot for Different Parameters</summary>
-  Describe the scatter plots you generated for various parameters, including any patterns or trends you noticed in the relationships between them.
+  &nbsp;&nbsp;Describe the scatter plots you generated for various parameters, including any patterns or trends you noticed in the relationships between them.
 </details>
 
 <details>
   <summary>Replace Categorical Values with Numerical Values</summary>
-  Discuss the process of converting categorical values into numerical representations (e.g., America = 1, Europe = 2) and the significance of this transformation for analysis.
+  &nbsp;&nbsp;Discuss the process of converting categorical values into numerical representations (e.g., America = 1, Europe = 2) and the significance of this transformation for analysis.
 </details>
 
 ## Skills Developed
