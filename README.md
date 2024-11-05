@@ -34,7 +34,7 @@
   </details>
   &nbsp;&nbsp;<details>
     <summary>Correlation Heat Map</summary>
-    Provide details on how you created a correlation heat map, what libraries you used (like Seaborn or ggplot), and your observations regarding the correlations between different variables.
+    To visualize the relationships between numeric variables, I created a correlation heat map using Seaborn and Matplotlib. First, I filtered the dataset to include only numeric columns and generated a correlation matrix. Then, I plotted the heat map, annotating it with the correlation coefficients. This visualization allowed me to easily identify strong correlations, which are valuable for understanding how different variables interact with each other.
   </details>
   &nbsp;&nbsp;<details>
     <summary>Scatter Plot for Different Parameters</summary>
