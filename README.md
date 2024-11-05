@@ -30,7 +30,7 @@
   </details>
   &nbsp;&nbsp;<details>
     <summary>Estimate Skewness and Kurtosis</summary>
-    Explain how you estimated skewness and kurtosis for your variables, and what these metrics reveal about the distribution of your data.
+    I calculated the skewness and kurtosis of the dataset using the skew() and kurtosis() methods from Pandas. Skewness measures the asymmetry of the data distribution, while kurtosis indicates the "tailedness" of the distribution. These metrics provide insights into the nature of the data distributions, helping to assess normality and identify potential outliers.
   </details>
   &nbsp;&nbsp;<details>
     <summary>Correlation Heat Map</summary>
