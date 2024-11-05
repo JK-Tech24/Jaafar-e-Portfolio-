@@ -44,6 +44,58 @@
     <summary>Replace Categorical Values with Numerical Values</summary>
     To prepare the dataset for analysis, I converted the 'origin' categorical variable into numerical values using the map() function. This transformation is crucial for many statistical models that require numerical input. By mapping 'America' to 1, 'Europe' to 2, and 'Asia' to 3, I ensured that the data was suitable for further analysis. Finally, I printed the updated 'origin' column to verify the changes.
   </details>
+  &nbsp;&nbsp;<details>
+    <summary>Python Code</summary>
+
+    ```python
+    import pandas as pd
+    import seaborn as sns
+    import matplotlib.pyplot as plt
+
+    # Load the dataset
+    data = pd.read_csv("Unit02 auto-mpg.csv")  # Ensure the file name is correct
+
+    # 1. Identify Missing Values
+    missing_values = data.isnull().sum()
+    print("Missing values per column:\n", missing_values)
+
+    # 2. Estimate Skewness and Kurtosis
+    skewness = data.skew()
+    kurtosis = data.kurtosis()
+    print("\nSkewness:\n", skewness)
+    print("\nKurtosis:\n", kurtosis)
+
+    # 3. Correlation Heat Map
+    # Select only numeric columns for correlation
+    numeric_data = data.select_dtypes(include=['number'])
+
+    # Generate the correlation matrix
+    correlation_matrix = numeric_data.corr()
+
+    # Plot correlation heat map
+    plt.figure(figsize=(10, 8))
+    sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', linewidths=0.5)
+    plt.title("Correlation Heat Map")
+    plt.show()
+
+    # 4. Scatter Plot for Different Parameters
+    # Example: Scatter plot for 'horsepower' vs 'mpg'
+    plt.figure(figsize=(8, 6))
+    sns.scatterplot(data=data, x='horsepower', y='mpg')  # Adjust 'horsepower' and 'mpg' as needed
+    plt.title("Horsepower vs MPG")
+    plt.xlabel("Horsepower")
+    plt.ylabel("Miles per Gallon (MPG)")
+    plt.show()
+
+    # 5. Replace Categorical Values with Numerical Values
+    # Assuming 'origin' is a categorical column to convert
+    data['origin'] = data['origin'].map({'America': 1, 'Europe': 2, 'Asia': 3})
+
+    # Display the updated 'origin' column to verify changes
+    print("\nUpdated 'origin' column:\n", data['origin'].head())
+    ```
+
+</details>
     
 
 ## Skills Developed
