@@ -27,6 +27,8 @@
   &nbsp;&nbsp;<details>
     <summary>Identify missing values</summary>
     In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
+    missing_values = data.isnull().sum()
+print("Missing values per column:\n", missing_values)
   </details>
   &nbsp;&nbsp;<details>
     <summary>Estimate Skewness and Kurtosis</summary>
