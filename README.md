@@ -23,7 +23,6 @@
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
 - **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
 
-<details>
   <summary>**Unit 2 Seminar (Title: EDA Tutorial)**</summary>
 
   &nbsp;&nbsp;<details>
