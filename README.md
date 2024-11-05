@@ -32,13 +32,6 @@
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
 - **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
 - **Professional Development**:
- <details>
-  <summary>Summary of learning outcomes</summary>
-  - Team meeting notes
-  - Peer and tutor feedback
-  - Professional Skills Matrix & Action Plan (PDP)
-  - Additional module artefacts linked to specific learning outcomes
-  
 <h4>Unit 2 Seminar (Title: EDA Tutorial)</h4>
 
 <details>
