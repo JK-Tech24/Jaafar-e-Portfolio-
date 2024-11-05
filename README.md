@@ -40,12 +40,21 @@
   - Additional module artefacts linked to specific learning outcomes
  
 - **Unit 2 Seminar (Title: EDA Tutorial)**:
-- Summary of learning outcomes
-  - Identify missing values.
-  - Estimate Skewness and Kurtosis.
-  - Correlation Heat Map.
-  - Scatter plot for different parameters
-  - Replace categorical values with numerical values (i.e., America 1, Europe 2 etc.).
+<details>
+  <summary>Identify missing values</summary>
+
+<details>
+  <summary>Estimate Skewness and Kurtosis</summary>
+
+<details>
+ <summary>Correlation Heat Map</summary>
+
+<details> 
+<summary>Scatter Plot for Different Parameters</summary>
+
+<details> 
+<summary>Replace Categorical Values with Numerical Values</summary>
+
 
 ## Skills Developed
 - **Time Management** 
