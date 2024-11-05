@@ -32,7 +32,8 @@
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
 - **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
 - **Professional Development**:
-  - Summary of learning outcomes
+  - <details>
+  <summary>Summary of learning outcomes</summary>
   - Team meeting notes
   - Peer and tutor feedback
   - Professional Skills Matrix & Action Plan (PDP)
