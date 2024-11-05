@@ -39,7 +39,7 @@
   - Professional Skills Matrix & Action Plan (PDP)
   - Additional module artefacts linked to specific learning outcomes
   
- - **Unit 2 Seminar (Title: EDA Tutorial)**:
+- **Unit 2 Seminar (Title: EDA Tutorial)**:
 **Data Analysis Tasks**:
 
 <details>
