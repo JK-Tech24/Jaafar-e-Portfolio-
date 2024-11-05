@@ -90,8 +90,7 @@ plt.show()
 data['origin'] = data['origin'].map({'America': 1, 'Europe': 2, 'Asia': 3})
 
 # Display the updated 'origin' column to verify changes
-print("\nUpdated 'origin' column:\n", data['origin'].head())
-  </details>
+print("\nUpdated 'origin' column:\n", data['origin'].head
 
 ## Skills Developed
 - **Time Management** 
