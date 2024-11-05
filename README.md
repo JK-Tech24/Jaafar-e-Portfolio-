@@ -38,11 +38,11 @@
   </details>
   &nbsp;&nbsp;<details>
     <summary>Scatter Plot for Different Parameters</summary>
-    Describe the scatter plots you generated for various parameters, including any patterns or trends you noticed in the relationships between them.
+    I created a scatter plot to examine the relationship between 'horsepower' and 'mpg' (miles per gallon). Using Seaborn's scatterplot() function, I was able to visually assess how changes in horsepower affected fuel efficiency. This type of visualization is essential for identifying trends and patterns in the data.
   </details>
   &nbsp;&nbsp;<details>
     <summary>Replace Categorical Values with Numerical Values</summary>
-    Discuss the process of converting categorical values into numerical representations (e.g., America = 1, Europe = 2) and the significance of this transformation for analysis.
+    To prepare the dataset for analysis, I converted the 'origin' categorical variable into numerical values using the map() function. This transformation is crucial for many statistical models that require numerical input. By mapping 'America' to 1, 'Europe' to 2, and 'Asia' to 3, I ensured that the data was suitable for further analysis. Finally, I printed the updated 'origin' column to verify the changes.
   </details>
 
 ## Skills Developed
