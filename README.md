@@ -23,7 +23,7 @@
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
 - **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
 
-  <summary><strong>Unit 2 Seminar (Title: EDA Tutorial)</strong></summary>
+  <summary><strong>Unit 2 Seminar (Title: EDA Tutorial)undertaking similar EDA with Auto-mpg dataset</strong></summary>
   &nbsp;&nbsp;<details>
     <summary>Identify missing values</summary>
     In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
