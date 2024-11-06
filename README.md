@@ -19,6 +19,8 @@
 
 <!-- Continue adding sections as needed -->
 
+<h2>Formative and e-Portfolio Activities<h2>
+
 <details>
     <summary><strong>Contents (Machine Learning Module)</strong></summary>
 
