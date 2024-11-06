@@ -122,9 +122,9 @@
     </pre>
 </details>
 
-<h3>e-Portfolio Component(Unit 3) - Correlation and Regression</h3>
+<h3>e-Portfolio Component (Unit 3) - Correlation and Regression</h3>
 
-For the **Unit 2 activity**, I ran the following four programs in my Jupyter Notebook. I modified variables where needed to observe how changes in data points impact correlation, regression, and predictions.
+I ran the following four programs in my Jupyter Notebook. I modified variables where needed to observe how changes in data points impact correlation, regression, and predictions.
 
 <details>
     <summary><strong>1. Covariance and Pearson Correlation</strong></summary>
