@@ -19,11 +19,8 @@
 
 <!-- Continue adding sections as needed -->
 
-<h2>Formative and e-Portfolio Activities<h2>
-
-<details>
-    <summary><strong>Contents (Machine Learning Module)</strong></summary>
-
+<h2>Formative and e-Portfolio Activities(Machine Learning Module)<h2>
+    
 <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
 
 &nbsp;&nbsp;<details>
