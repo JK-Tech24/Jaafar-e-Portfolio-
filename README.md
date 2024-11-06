@@ -94,8 +94,8 @@
 
 </details>
 
-<summary><strong>e-Portfolio Component (unit 3)</strong></summary>
-<summary><strong>Unit 4 Seminar Preparation</strong></summary>
+-   <summary><strong>e-Portfolio Component (unit 3)</strong></summary>
+-   <summary><strong>Unit 4 Seminar Preparation</strong></summary>
 <summary><strong>Wiki Activity</strong></summary>
 <summary><strong>e-Portfolio Component</strong> (unit 5)</summary>
 <summary><strong>Unit 6 Seminar Preparation</strong></summary>
