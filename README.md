@@ -18,7 +18,7 @@
 <hr>
 
 <!-- Continue adding sections as needed -->
-## Contents
+## Contents (Machine Learning Module)
 - **Collaborative Discussion 1**
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
   <summary><strong>Unit 2 Seminar (Title: EDA Tutorial)-Undertaking similar EDA with Auto-mpg dataset</strong></summary>
