@@ -22,7 +22,7 @@
 <h2>Formative and e-Portfolio Activities (Machine Learning Module)</h2>
 
 <details>
-    <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
+    <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking Similar EDA with Auto-mpg Dataset</strong></summary>
     
 &nbsp;&nbsp;<details>
         <summary><strong>Identify Missing Values</strong></summary>
