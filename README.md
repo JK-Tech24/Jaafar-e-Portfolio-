@@ -21,6 +21,7 @@
 ## Contents (Machine Learning Module)
 
      <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
+     
  <details>
     <summary><strong>Unit 2 Seminar Preparation (unit 2)</strong></summary>
     
@@ -105,21 +106,6 @@
     print("\nUpdated 'origin' column:\n", data['origin'].head())
     ```
     </pre>
-</details>
-</details>
-- <summary><strong>e-Portfolio Component (unit 3)</strong></summary>
-- <summary><strong>Unit 4 Seminar Preparation</strong></summary>
-- <summary><strong>Wiki Activity</strong></summary>
-- <summary><strong>e-Portfolio Component</strong> (unit 5)</summary>
-- <summary><strong>Unit 6 Seminar Preparation</strong></summary>
-- <summary><strong>e-Portfolio Component</strong> (unit 7)</summary>
-- <summary><strong>Unit 8 Seminar Preparation</strong></summary>
-- <summary><strong>e-Portfolio Component</strong> (unit 8)</summary>
-- <summary><strong>Collaborative Discussion 2</strong> (units 8-10)</summary>
-- <summary><strong>e-Portfolio Component</strong> (unit 9)</summary>
-- <summary><strong>Unit 10 Seminar Preparation</strong></summary>
-- <summary><strong>e-Portfolio Component</strong> (unit 11)</summary>
-- <summary><strong>Unit 12 Seminar Preparation</strong></summary>
 
 
 
