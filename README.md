@@ -20,7 +20,7 @@
 <!-- Continue adding sections as needed -->
 ## Contents (Machine Learning Module)
  -   <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
- <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
+ -   <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
 
 &nbsp;&nbsp;<details>
     <summary><strong>Identify missing values</strong></summary>
