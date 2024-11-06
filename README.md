@@ -19,6 +19,9 @@
 
 <!-- Continue adding sections as needed -->
 
+<details>
+    <summary><strong>Contents (Machine Learning Module)</strong></summary>
+
 <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
 
 &nbsp;&nbsp;<details>
