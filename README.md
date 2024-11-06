@@ -125,10 +125,3 @@ For the **Unit 2 activity**, I ran the following four programs in my Jupyter Not
 
 ---
 
-### Learning Outcomes:
-- Articulate the legal, social, ethical, and professional issues faced by machine learning professionals.
-- Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.
-
----
-
-This updated structure includes the necessary changes for the "Unit 2 Seminar Preparation" title, with the correct format for your e-Portfolio content.
