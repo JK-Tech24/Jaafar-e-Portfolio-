@@ -28,9 +28,7 @@
   <details>
     <summary><strong>Identify missing values</strong></summary>
     In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
-
-    <details>
-       
+ 
 <details>
     <summary><strong>Estimate Skewness and Kurtosis</strong></summary>
     I calculated the skewness and kurtosis of the dataset using the skew() and kurtosis() methods from Pandas. Skewness measures the asymmetry of the data distribution, while kurtosis indicates the "tailedness" of the distribution. These metrics provide insights into the nature of the data distributions, helping to assess normality and identify potential outliers.
