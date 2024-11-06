@@ -103,3 +103,24 @@
     </details>
 </details>
 
+## e-Portfolio Component - Correlation and Regression (Unit 2)
+
+For the **Unit 2 activity**, I ran the following four programs in my Jupyter Notebook. I modified variables where needed to observe how changes in data points impact correlation, regression, and predictions.
+
+### 1. Covariance and Pearson Correlation:
+I used the `cov()` and `corr()` functions from Pandas to calculate the covariance and Pearson correlation between two variables. By changing the data values, I could observe how the relationship between the variables varied, reflected in the correlation coefficient and covariance.
+
+### 2. Linear Regression:
+I applied linear regression using the `LinearRegression()` function from `sklearn`. I adjusted the dependent and independent variables (e.g., `Y` and `X`) to understand how changes in the dataset affect the model’s coefficients and predictions. I examined how modifying values in `Y` impacted the linear relationship.
+
+### 3. Multiple Linear Regression:
+For multiple linear regression, I used the `LinearRegression()` model with multiple predictors (`X1`, `X2`, etc.). By modifying the input data, I explored how different predictors influence the target variable. I observed changes in the regression coefficients and the model’s ability to predict values based on multiple features.
+
+### 4. Polynomial Regression:
+Polynomial regression was performed using the `PolynomialFeatures()` and `LinearRegression()` models. I modified the degree of the polynomial and the input values to observe the fit of the model. By increasing the polynomial degree or changing the input data, I observed how the model’s complexity and accuracy changed.
+
+---
+
+### Learning Outcomes:
+- Articulate the legal, social, ethical, and professional issues faced by machine learning professionals.
+- Understand the applicability and challenges associated with different datasets for the use of machine learning algorithms.
