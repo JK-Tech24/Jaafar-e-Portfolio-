@@ -20,9 +20,10 @@
 <!-- Continue adding sections as needed -->
 ## Contents (Machine Learning Module)
  -   <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
- -   <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
+ <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
+
 &nbsp;&nbsp;<details>
-   <summary><strong>Identify missing values</strong></summary>
+    <summary><strong>Identify missing values</strong></summary>
     In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
 </details>
 
