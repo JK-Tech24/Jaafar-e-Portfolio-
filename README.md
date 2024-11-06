@@ -21,7 +21,7 @@
 ## Contents (Machine Learning Module)
  -   <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
  <details>
-    <summary><strong>Contents (Machine Learning Module)</strong></summary>
+    <summary><strong>Unit 2 Seminar Preparation (unit 2)</strong></summary>
     
   <details>
     <summary><strong>Identify missing values</strong></summary>
