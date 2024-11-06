@@ -22,12 +22,16 @@
 
 -  <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
     
-    <summary><strong>Unit 2 Seminar Preparation (unit 2)</strong></summary>
-    
-  <details>
+   <details>
     <summary><strong>Identify missing values</strong></summary>
     In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
- 
+
+    <details>
+        <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
+        Here, I used similar steps for exploratory data analysis (EDA) on the Auto-mpg dataset. I checked for missing values, estimated the skewness and kurtosis, created correlation heatmaps, and examined scatter plots to understand relationships between different variables, including horsepower and miles per gallon (mpg).
+    </details>
+</details>
+
 <details>
     <summary><strong>Estimate Skewness and Kurtosis</strong></summary>
     I calculated the skewness and kurtosis of the dataset using the skew() and kurtosis() methods from Pandas. Skewness measures the asymmetry of the data distribution, while kurtosis indicates the "tailedness" of the distribution. These metrics provide insights into the nature of the data distributions, helping to assess normality and identify potential outliers.
@@ -99,13 +103,6 @@
     print("\nUpdated 'origin' column:\n", data['origin'].head())
     ```
     </pre>
-
-
-
-
-
-
-
-
+</details>
 
 
