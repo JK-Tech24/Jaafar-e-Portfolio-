@@ -19,7 +19,32 @@
 
 <!-- Continue adding sections as needed -->
 ## Contents (Machine Learning Module)
-- **Collaborative Discussion 1**
+- **Collaborative Discussion 1** (units 1-3)
+- **Unit 2 Seminar Preparation** (unit 2)
+- **e-Portfolio Component** (unit 3)
+- **Unit 4 Seminar Preparation** (unit 4)
+- **Wiki Activity** (unit 5)
+- **e-Portfolio Component** (unit 5)
+- **Unit 6 Seminar Preparation** (unit 6)
+- **e-Portfolio Component** (unit 7)
+- **Unit 8 Seminar Preparation** (unit 8)
+- **e-Portfolio Component** (unit 8)
+- **Collaborative Discussion 2** (units 8-10)
+- **e-Portfolio Component** (unit 9)
+- **Unit 10 Seminar Preparation** (unit 10)
+- **e-Portfolio Component** (unit 11)
+- **Unit 12 Seminar Preparation** (unit 12)
+
+
+
+
+
+
+
+
+
+
+
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
   <summary><strong>Unit 2 Seminar (Title: EDA Tutorial)-Undertaking similar EDA with Auto-mpg dataset</strong></summary>
   &nbsp;&nbsp;<details>
