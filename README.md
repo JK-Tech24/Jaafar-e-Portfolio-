@@ -19,18 +19,18 @@
 
 <!-- Continue adding sections as needed -->
 
-<h2>Formative and e-Portfolio Activities(Machine Learning Module)<h2>
-    
-- <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
+<h2>Formative and e-Portfolio Activities (Machine Learning Module)</h2>
+
+<summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
 
 &nbsp;&nbsp;<details>
-    <summary><strong>Identify missing values</strong></summary>
-    In this step, I used the isnull() function from the Pandas library to check for any missing values in the dataset. By calling .sum() on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
+    <summary><strong>Identify Missing Values</strong></summary>
+    In this step, I used the `isnull()` function from the Pandas library to check for any missing values in the dataset. By calling `.sum()` on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
 </details>
 
 &nbsp;&nbsp;<details>
     <summary><strong>Estimate Skewness and Kurtosis</strong></summary>
-    I calculated the skewness and kurtosis of the dataset using the skew() and kurtosis() methods from Pandas. Skewness measures the asymmetry of the data distribution, while kurtosis indicates the "tailedness" of the distribution. These metrics provide insights into the nature of the data distributions, helping to assess normality and identify potential outliers.
+    I calculated the skewness and kurtosis of the dataset using the `skew()` and `kurtosis()` methods from Pandas. Skewness measures the asymmetry of the data distribution, while kurtosis indicates the "tailedness" of the distribution. These metrics provide insights into the nature of the data distributions, helping to assess normality and identify potential outliers.
 </details>
 
 &nbsp;&nbsp;<details>
@@ -40,12 +40,12 @@
 
 &nbsp;&nbsp;<details>
     <summary><strong>Scatter Plot for Different Parameters</strong></summary>
-    I created a scatter plot to examine the relationship between 'horsepower' and 'mpg' (miles per gallon). Using Seaborn's scatterplot() function, I was able to visually assess how changes in horsepower affected fuel efficiency. This type of visualization is essential for identifying trends and patterns in the data.
+    I created a scatter plot to examine the relationship between 'horsepower' and 'mpg' (miles per gallon). Using Seaborn's `scatterplot()` function, I was able to visually assess how changes in horsepower affected fuel efficiency. This type of visualization is essential for identifying trends and patterns in the data.
 </details>
 
 &nbsp;&nbsp;<details>
     <summary><strong>Replace Categorical Values with Numerical Values</strong></summary>
-    To prepare the dataset for analysis, I converted the 'origin' categorical variable into numerical values using the map() function. This transformation is crucial for many statistical models that require numerical input. By mapping 'America' to 1, 'Europe' to 2, and 'Asia' to 3, I ensured that the data was suitable for further analysis. Finally, I printed the updated 'origin' column to verify the changes.
+    To prepare the dataset for analysis, I converted the 'origin' categorical variable into numerical values using the `map()` function. This transformation is crucial for many statistical models that require numerical input. By mapping 'America' to 1, 'Europe' to 2, and 'Asia' to 3, I ensured that the data was suitable for further analysis. Finally, I printed the updated 'origin' column to verify the changes.
 </details>
 
 &nbsp;&nbsp;<details>
