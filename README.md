@@ -20,7 +20,11 @@
 <!-- Continue adding sections as needed -->
 ## Contents (Machine Learning Module)
 
-     <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
+ <details>
+    <summary><strong>Collaborative Discussion 1</strong> (units 1-3)</summary>
+    
+  <details>
+     
      
  <details>
     <summary><strong>Unit 2 Seminar Preparation (unit 2)</strong></summary>
