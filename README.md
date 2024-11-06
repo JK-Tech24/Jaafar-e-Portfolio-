@@ -21,29 +21,33 @@
 
 <h2>Formative and e-Portfolio Activities (Machine Learning Module)</h2>
 
-<details>
-    <summary><strong>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</strong></summary>
-    
+<h3>Unit 2 Seminar Preparation (Unit 2) - Undertaking similar EDA with Auto-mpg dataset</h3>
+
 <details>
     <summary><strong>Identify Missing Values</strong></summary>
     In this step, I used the `isnull()` function from the Pandas library to check for any missing values in the dataset. By calling `.sum()` on the result, I obtained the total number of missing values for each column. This helped me understand the completeness of the data and identify any columns that might need attention or imputation.
 </details>
+
 <details>
     <summary><strong>Estimate Skewness and Kurtosis</strong></summary>
     I calculated the skewness and kurtosis of the dataset using the `skew()` and `kurtosis()` methods from Pandas. Skewness measures the asymmetry of the data distribution, while kurtosis indicates the "tailedness" of the distribution. These metrics provide insights into the nature of the data distributions, helping to assess normality and identify potential outliers.
 </details>
+
 <details>
     <summary><strong>Correlation Heat Map</strong></summary>
     To visualize the relationships between numeric variables, I created a correlation heat map using Seaborn and Matplotlib. First, I filtered the dataset to include only numeric columns and generated a correlation matrix. Then, I plotted the heat map, annotating it with the correlation coefficients. This visualization allowed me to easily identify strong correlations, which are valuable for understanding how different variables interact with each other.
 </details>
+
 <details>
     <summary><strong>Scatter Plot for Different Parameters</strong></summary>
     I created a scatter plot to examine the relationship between 'horsepower' and 'mpg' (miles per gallon). Using Seaborn's `scatterplot()` function, I was able to visually assess how changes in horsepower affected fuel efficiency. This type of visualization is essential for identifying trends and patterns in the data.
 </details>
+
 <details>
     <summary><strong>Replace Categorical Values with Numerical Values</strong></summary>
     To prepare the dataset for analysis, I converted the 'origin' categorical variable into numerical values using the `map()` function. This transformation is crucial for many statistical models that require numerical input. By mapping 'America' to 1, 'Europe' to 2, and 'Asia' to 3, I ensured that the data was suitable for further analysis. Finally, I printed the updated 'origin' column to verify the changes.
 </details>
+
 <details>
     <summary><strong>Python Code</strong></summary>
     <pre>
@@ -95,6 +99,4 @@
     print("\nUpdated 'origin' column:\n", data['origin'].head())
     ```
     </pre>
-</details>
-
 </details>
