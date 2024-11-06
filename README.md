@@ -19,7 +19,30 @@
 
 <!-- Continue adding sections as needed -->
 
-<h2>e-Portfolio Component - Unit 2 Seminar Preparation (Unit 2) - Undertaking Similar EDA with Auto-mpg Dataset</h2>
+<h1>Jaafar's e-Portfolio</h1>
+
+<h2>About Me</h2>
+<p>I am Jaafar, an Architect with a Master's degree in Project Management, currently pursuing a Master's degree in Artificial Intelligence. My work focuses on construction, engineering and infrastructure projects, with a particular focus on facility management and maintenance. I am committed to introducing AI solutions to create innovation, improve project productivity and increase environmental efficiency.</p>
+
+<p><strong>Nationality:</strong> Lebanese / Canadian<br>
+<strong>Birth Date:</strong> January 16, 1985</p>
+
+<hr>
+
+<h2>Professional Experience</h2>
+<h3>Infrastructure Projects</h3>
+<p>Managed and designed several large-scale infrastructure projects, ensuring quality and adherence to standards.</p>
+
+<h3>Facility Management and Maintenance</h3>
+<p>Currently working in facility management, overseeing day-to-day operations and maintenance.</p>
+
+<hr>
+
+<!-- Continue adding sections as needed -->
+
+<h2>Formative and e-Portfolio Activities (Machine Learning)</h2>
+
+<h3>Unit 2 Seminar Preparation (Unit 2) - Undertaking Similar EDA with Auto-mpg Dataset</h3>
 
 <details>
     <summary><strong>Identify Missing Values</strong></summary>
@@ -99,7 +122,7 @@
     </pre>
 </details>
 
-<h3>e-Portfolio Component - Unit 2 Seminar Preparation (Unit 2) - Correlation and Regression</h3>
+<h3>Unit 2 Seminar Preparation (Unit 2) - Correlation and Regression</h3>
 
 For the **Unit 2 activity**, I ran the following four programs in my Jupyter Notebook. I modified variables where needed to observe how changes in data points impact correlation, regression, and predictions.
 
@@ -122,5 +145,3 @@ For the **Unit 2 activity**, I ran the following four programs in my Jupyter Not
     <summary><strong>4. Polynomial Regression</strong></summary>
     Polynomial regression was performed using the `PolynomialFeatures()` and `LinearRegression()` models. I modified the degree of the polynomial and the input values to observe the fit of the model. By increasing the polynomial degree or changing the input data, I observed how the model’s complexity and accuracy changed.
 </details>
-
-<hr>
