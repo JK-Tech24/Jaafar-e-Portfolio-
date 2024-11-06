@@ -123,5 +123,4 @@ For the **Unit 2 activity**, I ran the following four programs in my Jupyter Not
     Polynomial regression was performed using the `PolynomialFeatures()` and `LinearRegression()` models. I modified the degree of the polynomial and the input values to observe the fit of the model. By increasing the polynomial degree or changing the input data, I observed how the model’s complexity and accuracy changed.
 </details>
 
----
-
+<hr>
