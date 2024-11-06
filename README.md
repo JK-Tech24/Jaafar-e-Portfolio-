@@ -42,7 +42,7 @@
 
 <h2>Formative and e-Portfolio Activities (Machine Learning)</h2>
 
-<h3>Unit 2 Seminar Preparation (Unit 2) - Undertaking Similar EDA with Auto-mpg Dataset</h3>
+<h3>Seminar Preparation (Unit 2) - Undertaking Similar EDA with Auto-mpg Dataset</h3>
 
 <details>
     <summary><strong>Identify Missing Values</strong></summary>
@@ -122,7 +122,7 @@
     </pre>
 </details>
 
-<h3>Unit 2 Seminar Preparation (Unit 2) - Correlation and Regression</h3>
+<h3>e-Portfolio Component(Unit 3) - Correlation and Regression</h3>
 
 For the **Unit 2 activity**, I ran the following four programs in my Jupyter Notebook. I modified variables where needed to observe how changes in data points impact correlation, regression, and predictions.
 
