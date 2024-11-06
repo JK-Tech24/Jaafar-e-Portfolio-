@@ -19,10 +19,8 @@
 
 <!-- Continue adding sections as needed -->
 ## Contents
-- **Collaborative Forum Summaries**: Summarized discussions covering learning outcomes 1 and 2.
+- **Collaborative Discussion 1**
 - **Team Exercise Outcomes**: Results from team exercises aligned with learning outcomes 1-4.
-- **Reflective Piece**: A comprehensive reflection covering all learning outcomes.
-
   <summary><strong>Unit 2 Seminar (Title: EDA Tutorial)-Undertaking similar EDA with Auto-mpg dataset</strong></summary>
   &nbsp;&nbsp;<details>
     <summary>Identify missing values</summary>
@@ -98,14 +96,4 @@
 </details>
     
 
-## Skills Developed
-- **Time Management** 
-- **Commercial Awareness**
-- **Critical Thinking & Analysis**
-- **Communication & Literacy**
-- **IT & Digital Skills**
-- **Numeracy**
-- **Research & Problem-Solving**
-- **Interpersonal & Ethical Awareness**
-- **Teamwork, Leadership & Global Citizenship**
-- **Critical Reflection**
+
